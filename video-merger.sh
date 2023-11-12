@@ -56,4 +56,4 @@ ffmpeg -f concat -safe 0 -i "$filelist_path" -c copy "$output_name"
 # Clean up
 rm -r "$temp_directory"
 
-echo "All done!"
+echo "All done!!"
