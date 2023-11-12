@@ -20,3 +20,7 @@ This script processes a series of MP4 videos by adding a timestamp overlay refle
 1. Place the script in a directory you wish to execute it from.
 2. Ensure that FFmpeg and ffprobe are installed and accessible in your PATH.
 3. Run the script from the terminal:
+
+   ```bash
+   bash video_processing.sh
+   ```
