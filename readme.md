@@ -2,6 +2,8 @@
 
 This script processes a series of MP4 videos by adding a timestamp overlay reflecting each video's recording time and merges them into a single output file.
 
+Originally created to merge GoPro videos; this script can be adapted for other purposes.
+
 ## Features
 
 - Extracts recording timestamp metadata from each video file.
