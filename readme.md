@@ -22,5 +22,19 @@ This script processes a series of MP4 videos by adding a timestamp overlay refle
 3. Run the script from the terminal:
 
    ```bash
-   bash video_processing.sh
+   ./video-merger.sh
    ```
+
+4. Follow the prompts to input the directory path or use the default path.
+5. Enter the desired output file name when prompted.
+
+## Customization
+
+You can customize the default directory path by editing the default_directory variable within the script.
+Contributing
+
+If you'd like to contribute to this script or suggest improvements, please open an issue or submit a pull request.
+License
+
+This script is open-sourced software licensed under the MIT license.
+
